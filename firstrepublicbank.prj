@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Project>
+   <description>Smoke Testing for https://firstrepublicbank.com</description>
+   <name>firstrepublicbank</name>
+   <tag></tag>
+   <UUID>9159442a-9783-46f8-8944-840dbdfa449c</UUID>
+   <pageLoadTimeout>0</pageLoadTimeout>
+</Project>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>24e28b4c-de71-4e56-aa02-ee42ac1a8024</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/~/media/frb/images/person/jim_herbert_119x149.ashx?h=140&amp;la=en&amp;w=119&amp;hash=C08B2F2148467D44424E820B9366C6EB3F9B52EE</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>James H. Herbert II</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>119</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>140</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/div[@class=&quot;page-constraint&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;small-12 medium-12 large-12 columns content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;small-12 medium-9 columns content&quot;]/div[@class=&quot;bio-individual&quot;]/figure[@class=&quot;bio-individual__thumbnail&quot;]/img[1]</value>
+   </webElementProperties>
+</WebElementEntity>

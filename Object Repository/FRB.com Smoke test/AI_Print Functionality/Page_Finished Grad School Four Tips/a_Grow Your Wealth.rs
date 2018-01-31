@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Grow Your Wealth</name>
+   <tag></tag>
+   <elementGuidId>f91425c9-686b-48bd-9fd7-efa0b9cca047</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[count(. | //*[@href = '/articles-insights/life-money/grow-your-wealth?gnav=globalheader;articlesinsights-grow-your-wealth']) = count(//*[@href = '/articles-insights/life-money/grow-your-wealth?gnav=globalheader;articlesinsights-grow-your-wealth'])][count(. | //*[text() = 'Grow Your Wealth']) = count(//*[text() = 'Grow Your Wealth'])][count(. | id(&quot;articlesinsightsDrop&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;large-3 columns&quot;]/ul[@class=&quot;link-list section-list&quot;]/li[1]/a[1]) = count(id(&quot;articlesinsightsDrop&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;large-3 columns&quot;]/ul[@class=&quot;link-list section-list&quot;]/li[1]/a[1])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ta-gnav</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/articles-insights/life-money/grow-your-wealth?gnav=globalheader;articlesinsights-grow-your-wealth</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>disablelinkdescription</name>
+      <type>Main</type>
+      <value>True</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ta-gnav-text</name>
+      <type>Main</type>
+      <value>articlesinsights-grow-your-wealth</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ta-gnav-loc</name>
+      <type>Main</type>
+      <value>globalheader</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Grow Your Wealth</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;articlesinsightsDrop&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;large-3 columns&quot;]/ul[@class=&quot;link-list section-list&quot;]/li[1]/a[1]</value>
+   </webElementProperties>
+</WebElementEntity>

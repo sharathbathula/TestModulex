@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>AI_Client Testimonial</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>59592e85-3848-4f05-9e4b-100b21809887</testCaseGuid>
+   <variable>
+      <defaultValue>'Northern California, San Francisco'</defaultValue>
+      <description></description>
+      <id>d22b0aca-480f-45fd-b83d-8178a9b96009</id>
+      <masked>false</masked>
+      <name>a</name>
+   </variable>
+</TestCaseEntity>

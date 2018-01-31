@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Print</name>
+   <tag></tag>
+   <elementGuidId>48a9b842-b762-4fff-b08f-e0716dffab2f</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>#</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>icon-buttons--link js-print</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Print</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/div[@class=&quot;page-constraint&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;small-12 medium-8 large-9 columns content&quot;]/div[@class=&quot;content article-page__heading&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;column medium-5 large-5 end&quot;]/div[@class=&quot;share-top&quot;]/ul[@class=&quot;icon-buttons component hide-for-small&quot;]/li[@class=&quot;icon-buttons--item hide-for-small&quot;]/a[@class=&quot;icon-buttons--link js-print&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Continue_Facebook</name>
+   <tag></tag>
+   <elementGuidId>ee955f7b-160f-4efe-b357-52cc33ec9dcd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;externalLinkModal&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;columns small-12 medium-8 large-6 medium-centered&quot;]/div[@class=&quot;content rich-text&quot;]/div[@class=&quot;row collapse&quot;]/div[@class=&quot;columns small-12 medium-6 text-right&quot;]/a[@class=&quot;button btn-continue open-share-window&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button btn-continue open-share-window</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>button</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Continue</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>http://www.facebook.com/sharer/sharer.php?u=https://www.firstrepublic.com/articles-insights/life-money/grow-your-wealth/meant-to-be-how-to-know-if-you-and-student-loan-refinancing-are-a-potential-match</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;externalLinkModal&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;columns small-12 medium-8 large-6 medium-centered&quot;]/div[@class=&quot;content rich-text&quot;]/div[@class=&quot;row collapse&quot;]/div[@class=&quot;columns small-12 medium-6 text-right&quot;]/a[@class=&quot;button btn-continue open-share-window&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

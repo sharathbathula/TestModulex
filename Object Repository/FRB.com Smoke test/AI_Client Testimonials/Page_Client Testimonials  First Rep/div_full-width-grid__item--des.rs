@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_full-width-grid__item--des</name>
+   <tag></tag>
+   <elementGuidId>8757169f-e542-4bbf-937f-ee4f5177793a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//*[@id=&quot;dynamicContent&quot;]/li[1]/div[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//div[count(. | id(&quot;dynamicContent&quot;)/li[@class=&quot;full-width-grid__item active&quot;]/div[@class=&quot;full-width-grid__item--description&quot;]) = count(id(&quot;dynamicContent&quot;)/li[@class=&quot;full-width-grid__item active&quot;]/div[@class=&quot;full-width-grid__item--description&quot;])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>full-width-grid__item--description</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dynamicContent&quot;)/li[@class=&quot;full-width-grid__item active&quot;]/div[@class=&quot;full-width-grid__item--description&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

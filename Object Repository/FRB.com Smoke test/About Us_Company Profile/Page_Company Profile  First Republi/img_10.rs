@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_10</name>
+   <tag></tag>
+   <elementGuidId>d19f5ce8-78a7-47b7-83f9-8272154445e0</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/~/media/frb/images/person/frb_2016_bod_119x140_parker.ashx?h=140&amp;la=en&amp;w=119&amp;hash=C2EFD8F6276B8794CA0FB7EAC416E726D90C9042</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>George G. C.  Parker </value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>119</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>140</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/div[@class=&quot;page-constraint&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;small-12 medium-12 large-12 columns content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;columns content&quot;]/div[@class=&quot;row data-equalizer-watch&quot;]/div[@class=&quot;large-4 medium-6 columns bio end&quot;]/div[@class=&quot;tab-wrapper clearfix&quot;]/img[1]</value>
+   </webElementProperties>
+</WebElementEntity>

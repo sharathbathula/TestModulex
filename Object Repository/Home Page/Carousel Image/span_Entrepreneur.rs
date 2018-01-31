@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Entrepreneur</name>
+   <tag></tag>
+   <elementGuidId>63ad8aa4-6e60-4f1c-b72d-b114c32d9f76</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>caption-industry</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Entrepreneur</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/div[@class=&quot;page-constraint&quot;]/div[@class=&quot;carousel-wrapper&quot;]/div[@class=&quot;carousel-menu reveal&quot;]/div[@class=&quot;carousel   slick-initialized slick-slider reveal&quot;]/div[@class=&quot;slick-list draggable&quot;]/div[@class=&quot;slick-track&quot;]/div[@class=&quot;slide testimonial-slide slick-slide slick-active&quot;]/div[@class=&quot;bottom-banner bg-dark-green&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;large-9 medium-8 columns&quot;]/div[@class=&quot;caption&quot;]/span[@class=&quot;caption-industry&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

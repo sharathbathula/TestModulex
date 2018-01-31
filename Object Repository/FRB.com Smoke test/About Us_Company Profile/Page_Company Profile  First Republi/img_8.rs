@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_8</name>
+   <tag></tag>
+   <elementGuidId>f24fd9ed-a5cc-4b2b-b650-948ad7035215</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/~/media/frb/images/person/frb_2016_bod_119x140_levy.ashx?h=140&amp;la=en&amp;w=119&amp;hash=CC31DD254E913FC435E85DB6D6339F4C42B00E8F</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Reynold Levy</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>119</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>height</name>
+      <type>Main</type>
+      <value>140</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mainContent&quot;)/div[@class=&quot;page-constraint&quot;]/div[@class=&quot;clearfix&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;small-12 medium-12 large-12 columns content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;columns content&quot;]/div[@class=&quot;row data-equalizer-watch&quot;]/div[@class=&quot;large-4 medium-6 columns bio end&quot;]/div[@class=&quot;tab-wrapper clearfix&quot;]/img[1]</value>
+   </webElementProperties>
+</WebElementEntity>

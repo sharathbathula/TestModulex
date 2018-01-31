@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_bankerPhoto</name>
+   <tag></tag>
+   <elementGuidId>84d36d61-ae90-4ff6-ade4-a70882d5c6f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//img[count(. | //*[@id = 'bankerPhoto']) = count(//*[@id = 'bankerPhoto'])][count(. | //*[@width = '211']) = count(//*[@width = '211'])][count(. | //*[@src = '/~/media/frb/images/fund-your-dreams/associates/frb_portrait_brett-klein.ashx']) = count(//*[@src = '/~/media/frb/images/fund-your-dreams/associates/frb_portrait_brett-klein.ashx'])][count(. | id(&quot;bankerPhoto&quot;)) = count(id(&quot;bankerPhoto&quot;))]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>bankerPhoto</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>width</name>
+      <type>Main</type>
+      <value>211</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/~/media/frb/images/fund-your-dreams/associates/frb_portrait_brett-klein.ashx</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Brett  Klein</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;bankerPhoto&quot;)</value>
+   </webElementProperties>
+</WebElementEntity>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_Type</name>
+   <tag></tag>
+   <elementGuidId>e125c5f5-f287-4249-b11e-7cdadc08e661</elementGuidId>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>lbl-placeholder always-visible has-content</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>for</name>
+      <type>Main</type>
+      <value>isVideoOnly</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Type</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form1&quot;)/div[@class=&quot;testimonial-grid&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;small-12 columns&quot;]/div[@class=&quot;full-width-grid__filters clearfix&quot;]/div[@class=&quot;full-width-grid__filters-item&quot;]/label[@class=&quot;lbl-placeholder always-visible has-content&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

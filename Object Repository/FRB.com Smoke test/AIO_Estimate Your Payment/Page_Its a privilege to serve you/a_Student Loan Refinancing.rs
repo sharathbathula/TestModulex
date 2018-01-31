@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Student Loan Refinancing</name>
+   <tag></tag>
+   <elementGuidId>d858d61d-5f83-4fce-8073-6310926d5a00</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//a[count(. | //*[@href = '/student-loan-refinancing?gnav=globalheader;personal-student-loan-refinancing']) = count(//*[@href = '/student-loan-refinancing?gnav=globalheader;personal-student-loan-refinancing'])][count(. | //*[text() = 'Student Loan Refinancing']) = count(//*[text() = 'Student Loan Refinancing'])][count(. | id(&quot;personalDrop&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;large-3 columns&quot;]/ul[@class=&quot;link-list section-list&quot;]/li[4]/a[1]) = count(id(&quot;personalDrop&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;large-3 columns&quot;]/ul[@class=&quot;link-list section-list&quot;]/li[4]/a[1])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ta-gnav</name>
+      <type>Main</type>
+      <value>1</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/student-loan-refinancing?gnav=globalheader;personal-student-loan-refinancing</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>disablelinkdescription</name>
+      <type>Main</type>
+      <value>True</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ta-gnav-text</name>
+      <type>Main</type>
+      <value>personal-student-loan-refinancing</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-ta-gnav-loc</name>
+      <type>Main</type>
+      <value>globalheader</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Student Loan Refinancing</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;personalDrop&quot;)/div[@class=&quot;row&quot;]/div[@class=&quot;large-3 columns&quot;]/ul[@class=&quot;link-list section-list&quot;]/li[4]/a[1]</value>
+   </webElementProperties>
+</WebElementEntity>
